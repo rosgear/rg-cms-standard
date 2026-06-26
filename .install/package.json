@@ -1,0 +1,5 @@
+{
+    "copy": [
+        ["/rg.setup", "/modules/rg/rg.setup"]
+    ]
+}
