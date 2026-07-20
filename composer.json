@@ -22,7 +22,7 @@
         "rosgear/rg-theme-green": "*",
         "rosgear/rg-theme-impact": "*",
         "rosgear/rg-setup": "1.*",
-        "rosgear/rg-be-references": "*",
+        "rosgear/rg-be-reference": "*",
             "rosgear/rg-be-references-desk": "*",
             "rosgear/rg-be-references-articles": "*",
             "rosgear/rg-be-references-elements": "*",
