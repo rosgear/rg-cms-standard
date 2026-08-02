@@ -3,7 +3,7 @@
 ## Состав редакции «Стандарт»
 
 ### Модули Панели управления GePanel
-<img src="https://github.com/rosgear/rg-be-reference/raw/main/assets/images/icon_small.svg"> Модуль **«Справочники»** ([rg-be-reference](https://github.com/rosgear/rg-be-reference)) 
+<img src="https://github.com/rosgear/rg-be-references/raw/main/assets/images/icon_small.svg"> Модуль **«Справочники»** ([rg-be-references](https://github.com/rosgear/rg-be-references)) 
 
 _расширения модуля (справочники):_
 * <img src="https://github.com/rosgear/rg-be-references-desk/raw/main/assets/images/icon_small.svg"> Расширение модуля **«Панель справочников»** ([rg-be-references-desk](https://github.com/rosgear/rg-be-references-desk))
