@@ -3,7 +3,7 @@ English | [Русский](https://github.com/rosgear/rg-cms-standard/blob/main/
 ## The editorial board of «Standard»
 
 ### GePanel Control Panel modules
-<img src="https://github.com/rosgear/rg-be-reference/raw/main/assets/images/icon_small.svg"> Module **«References»** ([rg-be-reference](https://github.com/rosgear/rg-be-reference)) 
+<img src="https://github.com/rosgear/rg-be-references/raw/main/assets/images/icon_small.svg"> Module **«References»** ([rg-be-references](https://github.com/rosgear/rg-be-references)) 
 
 _module extensions (references):_
 * <img src="https://github.com/rosgear/rg-be-references-desk/raw/main/assets/images/icon_small.svg"> Module extension **«References Panel»** ([rg-be-references-desk](https://github.com/rosgear/rg-be-references-desk))
