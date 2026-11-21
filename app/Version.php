@@ -3,7 +3,7 @@
  * Этот файл является частью веб-приложения RosGear.
  * 
  * @link https://rosgear.ru/
- * @copyright Copyright (c) 2015-2025 RosGear
+ * @copyright Copyright (c) 2015-2026 RosGear
  * @license https://rosgear.ru/license/
  */
 
@@ -12,7 +12,7 @@ namespace App;
 /**
  * Версия веб-приложения RosGear.
  * 
- * @author Anton Tivonenko <anton.tivonenko@gmail.com>
+ * @author Anton Tivonenko <anton.tivonenko@rosgear.ru>
  * @package App
  */
 class Version extends \Ge\Version\AppVersion
@@ -30,17 +30,17 @@ class Version extends \Ge\Version\AppVersion
     /**
      * {@inheritdoc}
      */
-    public string $originalName = 'RosGear: Управление сайтом';
+    public string $originalName = 'РосГир: Управление сайтом';
 
     /**
      * {@inheritdoc}
      */
-    public string $number = '1.0';
+    public string $number = '1.0.1';
 
     /**
      * {@inheritdoc}
      */
-    public string $date = '01/01/2026';
+    public string $date = '01/11/2026';
 
     /**
      * {@inheritdoc}
